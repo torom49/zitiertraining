@@ -1,0 +1,812 @@
+{
+  "projekt": {
+    "titel": "Zitiertraining Facharbeit – 24 Übungen",
+    "stand": "10.11.2026",
+    "basis": "Gymnasium In der Wüste – Konzeptpapier Facharbeit (Stand 11.07.2025), S. 13–14, Abschnitt 2.5.3",
+    "umfang": 24,
+    "quellenarten": 6,
+    "uebungen_je_art": 4,
+    "schwierigkeitsstufen": [
+      "Grundlagen",
+      "Anwendung am Original"
+    ],
+    "website_nutzung": "Extern verlinken; vor einer öffentlichen Einbettung von Screenshots/PDF-Seiten die konkrete Lizenz kontrollieren.",
+    "schulregel": "Einheitliche Form des Literaturverzeichnisses nach dem Konzeptpapier; Quellenbelege im Text erfolgen mit Fußnoten.",
+    "hinweis_zeitschriften": "Für die Musterlösung wird analog zum Beispiel im Schulkonzept Jahr (Heftnummer) verwendet; der separate Band/Jahrgang kann ergänzend angegeben werden.",
+    "kein_automatischer_formaler_abgleich": true
+  },
+  "uebungen": [
+    {
+      "id": "MON-01",
+      "quellenart": "Monografie",
+      "titel": "Die Finanzierung von Desinformation",
+      "autorinnen_autoren": [
+        "Rita Gsenger"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-48048-6",
+      "untertitel": "Ein Überblick über Akteure, Profiteure und deren Infrastruktur",
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Verlag: Springer VS",
+          "Titel: Die Finanzierung von Desinformation",
+          "Erscheinungsjahr: 2025",
+          "Autor/in: Rita Gsenger",
+          "Erscheinungsort: Wiesbaden",
+          "Untertitel: Ein Überblick über Akteure, Profiteure und deren Infrastruktur"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Gsenger, Rita: Die Finanzierung von Desinformation. Ein Überblick über Akteure, Profiteure und deren Infrastruktur, Wiesbaden: Springer VS, 2025.",
+      "erklaerung": "Erst der Nachname, dann der Vorname; danach Titel und Untertitel, Ort: Verlag, Jahr.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "MON-02",
+      "quellenart": "Monografie",
+      "titel": "Der Glaube an Big Data",
+      "autorinnen_autoren": [
+        "Marco Lünich"
+      ],
+      "erscheinungsjahr": 2022,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-36368-0",
+      "untertitel": "Eine Analyse gesellschaftlicher Überzeugungen von Erkenntnis- und Nutzengewinnen aus digitalen Daten",
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Verlag: Springer VS",
+          "Titel: Der Glaube an Big Data",
+          "Erscheinungsjahr: 2022",
+          "Autor/in: Marco Lünich",
+          "Erscheinungsort: Wiesbaden",
+          "Untertitel: Eine Analyse gesellschaftlicher Überzeugungen von Erkenntnis- und Nutzengewinnen aus digitalen Daten"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Lünich, Marco: Der Glaube an Big Data. Eine Analyse gesellschaftlicher Überzeugungen von Erkenntnis- und Nutzengewinnen aus digitalen Daten, Wiesbaden: Springer VS, 2022.",
+      "erklaerung": "Erst der Nachname, dann der Vorname; danach Titel und Untertitel, Ort: Verlag, Jahr.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "MON-03",
+      "quellenart": "Monografie",
+      "titel": "Vertrauen in Journalismus unter Online-Bedingungen",
+      "autorinnen_autoren": [
+        "Fabian Prochazka"
+      ],
+      "erscheinungsjahr": 2020,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-30227-6",
+      "untertitel": "Zum Einfluss von Personenmerkmalen, Qualitätswahrnehmungen und Nachrichtennutzung",
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Verlag: Springer VS",
+          "Titel: Vertrauen in Journalismus unter Online-Bedingungen",
+          "Erscheinungsjahr: 2020",
+          "Autor/in: Fabian Prochazka",
+          "Erscheinungsort: Wiesbaden",
+          "Untertitel: Zum Einfluss von Personenmerkmalen, Qualitätswahrnehmungen und Nachrichtennutzung"
+        ]
+      },
+      "musterloesung": "Prochazka, Fabian: Vertrauen in Journalismus unter Online-Bedingungen. Zum Einfluss von Personenmerkmalen, Qualitätswahrnehmungen und Nachrichtennutzung, Wiesbaden: Springer VS, 2020.",
+      "erklaerung": "Erst der Nachname, dann der Vorname; danach Titel und Untertitel, Ort: Verlag, Jahr.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "MON-04",
+      "quellenart": "Monografie",
+      "titel": "Generalisiertes Vertrauen in automatisierten Journalismus",
+      "autorinnen_autoren": [
+        "Theresa Körner"
+      ],
+      "erscheinungsjahr": 2024,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-42735-1",
+      "untertitel": "Bedeutung und Einflussfaktoren auf das Vertrauen deutscher Leser*innen",
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "hinweis": "Beim Verlag ist die Erstveröffentlichung 2023 verzeichnet, das Copyright- und bibliografische Buchjahr lautet 2024.",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Verlag: Springer VS",
+          "Titel: Generalisiertes Vertrauen in automatisierten Journalismus",
+          "Erscheinungsjahr: 2024",
+          "Autor/in: Theresa Körner",
+          "Erscheinungsort: Wiesbaden",
+          "Untertitel: Bedeutung und Einflussfaktoren auf das Vertrauen deutscher Leser*innen"
+        ]
+      },
+      "musterloesung": "Körner, Theresa: Generalisiertes Vertrauen in automatisierten Journalismus. Bedeutung und Einflussfaktoren auf das Vertrauen deutscher Leser*innen, Wiesbaden: Springer VS, 2024.",
+      "erklaerung": "Erst der Nachname, dann der Vorname; danach Titel und Untertitel, Ort: Verlag, Jahr.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "SAM-05",
+      "quellenart": "Sammelband",
+      "titel": "Welche Öffentlichkeit brauchen wir?",
+      "autorinnen_autoren": [
+        "Jupp Legrand",
+        "Benedikt Linden",
+        "Hans-Jürgen Arlt"
+      ],
+      "erscheinungsjahr": 2023,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-39629-9",
+      "untertitel": "Zur Zukunft des Journalismus und demokratischer Medien",
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "rolle": "Hrsg.",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Buchtitel: Welche Öffentlichkeit brauchen wir?",
+          "Verlag: Springer VS",
+          "Herausgebende: Jupp Legrand, Benedikt Linden, Hans-Jürgen Arlt",
+          "Ort: Wiesbaden",
+          "Untertitel: Zur Zukunft des Journalismus und demokratischer Medien",
+          "Jahr: 2023"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Legrand, Jupp, Linden, Benedikt und Arlt, Hans-Jürgen (Hrsg.): Welche Öffentlichkeit brauchen wir?. Zur Zukunft des Journalismus und demokratischer Medien, Wiesbaden: Springer VS, 2023.",
+      "erklaerung": "Die herausgebenden Personen sind keine Autoren eines Gesamttextes: kennzeichne sie mit (Hrsg.).",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "SAM-06",
+      "quellenart": "Sammelband",
+      "titel": "Schreibende KI – ein interdisziplinärer Diskurs",
+      "autorinnen_autoren": [
+        "Alke Martens",
+        "Clemens H. Cap"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-45839-3",
+      "untertitel": "Perspektiven über den Sinn oder Unsinn von schreibender KI",
+      "ort": "Wiesbaden",
+      "verlag": "Springer Vieweg",
+      "rolle": "Hrsg.",
+      "hinweis": "Der Webkatalog benutzt auch die Schreibweise „Schreibende KI -- ein interdisziplinärer Diskurs“; typografische Gedankenstrichvariante ist hier vereinheitlicht.",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Buchtitel: Schreibende KI – ein interdisziplinärer Diskurs",
+          "Verlag: Springer Vieweg",
+          "Herausgebende: Alke Martens, Clemens H. Cap",
+          "Ort: Wiesbaden",
+          "Untertitel: Perspektiven über den Sinn oder Unsinn von schreibender KI",
+          "Jahr: 2025"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Martens, Alke und Cap, Clemens H. (Hrsg.): Schreibende KI – ein interdisziplinärer Diskurs. Perspektiven über den Sinn oder Unsinn von schreibender KI, Wiesbaden: Springer Vieweg, 2025.",
+      "erklaerung": "Die herausgebenden Personen sind keine Autoren eines Gesamttextes: kennzeichne sie mit (Hrsg.).",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "SAM-07",
+      "quellenart": "Sammelband",
+      "titel": "Öffentliche Verwaltung – Verwaltung in der Öffentlichkeit",
+      "autorinnen_autoren": [
+        "Klaus Kocks",
+        "Susanne Knorre",
+        "Jan Niklas Kocks"
+      ],
+      "erscheinungsjahr": 2020,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-28008-6",
+      "untertitel": "Herausforderungen und Chancen der Kommunikation öffentlicher Institutionen",
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "rolle": "Hrsg.",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Buchtitel: Öffentliche Verwaltung – Verwaltung in der Öffentlichkeit",
+          "Verlag: Springer VS",
+          "Herausgebende: Klaus Kocks, Susanne Knorre, Jan Niklas Kocks",
+          "Ort: Wiesbaden",
+          "Untertitel: Herausforderungen und Chancen der Kommunikation öffentlicher Institutionen",
+          "Jahr: 2020"
+        ]
+      },
+      "musterloesung": "Kocks, Klaus, Knorre, Susanne und Kocks, Jan Niklas (Hrsg.): Öffentliche Verwaltung – Verwaltung in der Öffentlichkeit. Herausforderungen und Chancen der Kommunikation öffentlicher Institutionen, Wiesbaden: Springer VS, 2020.",
+      "erklaerung": "Die herausgebenden Personen sind keine Autoren eines Gesamttextes: kennzeichne sie mit (Hrsg.).",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "SAM-08",
+      "quellenart": "Sammelband",
+      "titel": "Hybride KI mit Machine Learning und Knowledge Graphs",
+      "autorinnen_autoren": [
+        "Knut Hinkelmann",
+        "Thomas Hoppe",
+        "Bernhard G. Humm"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://link.springer.com/book/10.1007/978-3-658-44781-6",
+      "untertitel": "Innovative Lösungen aus der Praxis",
+      "ort": "Wiesbaden",
+      "verlag": "Springer Vieweg",
+      "rolle": "Hrsg.",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Buchtitel: Hybride KI mit Machine Learning und Knowledge Graphs",
+          "Verlag: Springer Vieweg",
+          "Herausgebende: Knut Hinkelmann, Thomas Hoppe, Bernhard G. Humm",
+          "Ort: Wiesbaden",
+          "Untertitel: Innovative Lösungen aus der Praxis",
+          "Jahr: 2025"
+        ]
+      },
+      "musterloesung": "Hinkelmann, Knut, Hoppe, Thomas und Humm, Bernhard G. (Hrsg.): Hybride KI mit Machine Learning und Knowledge Graphs. Innovative Lösungen aus der Praxis, Wiesbaden: Springer Vieweg, 2025.",
+      "erklaerung": "Die herausgebenden Personen sind keine Autoren eines Gesamttextes: kennzeichne sie mit (Hrsg.).",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "KAP-09",
+      "quellenart": "Aufsatz aus Sammelband",
+      "titel": "Kritik und Vertrauen. Einstellungen zu den Medien und vertrauensbildende Maßnahmen der Redaktionen",
+      "autorinnen_autoren": [
+        "Tanjev Schultz"
+      ],
+      "erscheinungsjahr": 2023,
+      "original_url": "https://link.springer.com/chapter/10.1007/978-3-658-39629-9_7",
+      "buchtitel": "Welche Öffentlichkeit brauchen wir?",
+      "buchuntertitel": "Zur Zukunft des Journalismus und demokratischer Medien",
+      "herausgeber": [
+        "Jupp Legrand",
+        "Benedikt Linden",
+        "Hans-Jürgen Arlt"
+      ],
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "seiten": "73–84",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Seiten des Beitrags: 73–84",
+          "Beitragsautor/in: Tanjev Schultz",
+          "Beitragstitel: Kritik und Vertrauen. Einstellungen zu den Medien und vertrauensbildende Maßnahmen der Redaktionen",
+          "Titel des Sammelbands: Welche Öffentlichkeit brauchen wir?",
+          "Untertitel des Sammelbands: Zur Zukunft des Journalismus und demokratischer Medien",
+          "Herausgebende: Jupp Legrand, Benedikt Linden, Hans-Jürgen Arlt",
+          "Verlag/Ort: Springer VS, Wiesbaden",
+          "Erscheinungsjahr: 2023"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Schultz, Tanjev: Kritik und Vertrauen. Einstellungen zu den Medien und vertrauensbildende Maßnahmen der Redaktionen, in: Welche Öffentlichkeit brauchen wir?. Zur Zukunft des Journalismus und demokratischer Medien, hrsg. von Jupp Legrand, Benedikt Linden und Hans-Jürgen Arlt, Wiesbaden: Springer VS, 2023, S. 73–84.",
+      "erklaerung": "Zuerst den Beitrag und dessen Autor nennen, danach mit „in:“ den Sammelband und seine Herausgebenden.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "KAP-10",
+      "quellenart": "Aufsatz aus Sammelband",
+      "titel": "Hilfe, meine KI kann schreiben!",
+      "autorinnen_autoren": [
+        "Alke Martens"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://link.springer.com/chapter/10.1007/978-3-658-45839-3_3",
+      "buchtitel": "Schreibende KI – ein interdisziplinärer Diskurs",
+      "buchuntertitel": "Perspektiven über den Sinn oder Unsinn von schreibender KI",
+      "herausgeber": [
+        "Alke Martens",
+        "Clemens H. Cap"
+      ],
+      "ort": "Wiesbaden",
+      "verlag": "Springer Vieweg",
+      "seiten": "69–91",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Seiten des Beitrags: 69–91",
+          "Beitragsautor/in: Alke Martens",
+          "Beitragstitel: Hilfe, meine KI kann schreiben!",
+          "Titel des Sammelbands: Schreibende KI – ein interdisziplinärer Diskurs",
+          "Untertitel des Sammelbands: Perspektiven über den Sinn oder Unsinn von schreibender KI",
+          "Herausgebende: Alke Martens, Clemens H. Cap",
+          "Verlag/Ort: Springer Vieweg, Wiesbaden",
+          "Erscheinungsjahr: 2025"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Martens, Alke: Hilfe, meine KI kann schreiben!, in: Schreibende KI – ein interdisziplinärer Diskurs. Perspektiven über den Sinn oder Unsinn von schreibender KI, hrsg. von Alke Martens und Clemens H. Cap, Wiesbaden: Springer Vieweg, 2025, S. 69–91.",
+      "erklaerung": "Zuerst den Beitrag und dessen Autor nennen, danach mit „in:“ den Sammelband und seine Herausgebenden.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "KAP-11",
+      "quellenart": "Aufsatz aus Sammelband",
+      "titel": "Social-Media-Strategie – Ressourcenplanung, Budget und die richtige Kommunikation",
+      "autorinnen_autoren": [
+        "Daniela Vey"
+      ],
+      "erscheinungsjahr": 2020,
+      "original_url": "https://link.springer.com/chapter/10.1007/978-3-658-28008-6_11",
+      "buchtitel": "Öffentliche Verwaltung – Verwaltung in der Öffentlichkeit",
+      "buchuntertitel": "Herausforderungen und Chancen der Kommunikation öffentlicher Institutionen",
+      "herausgeber": [
+        "Klaus Kocks",
+        "Susanne Knorre",
+        "Jan Niklas Kocks"
+      ],
+      "ort": "Wiesbaden",
+      "verlag": "Springer VS",
+      "seiten": "223–242",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Seiten des Beitrags: 223–242",
+          "Beitragsautor/in: Daniela Vey",
+          "Beitragstitel: Social-Media-Strategie – Ressourcenplanung, Budget und die richtige Kommunikation",
+          "Titel des Sammelbands: Öffentliche Verwaltung – Verwaltung in der Öffentlichkeit",
+          "Untertitel des Sammelbands: Herausforderungen und Chancen der Kommunikation öffentlicher Institutionen",
+          "Herausgebende: Klaus Kocks, Susanne Knorre, Jan Niklas Kocks",
+          "Verlag/Ort: Springer VS, Wiesbaden",
+          "Erscheinungsjahr: 2020"
+        ]
+      },
+      "musterloesung": "Vey, Daniela: Social-Media-Strategie – Ressourcenplanung, Budget und die richtige Kommunikation, in: Öffentliche Verwaltung – Verwaltung in der Öffentlichkeit. Herausforderungen und Chancen der Kommunikation öffentlicher Institutionen, hrsg. von Klaus Kocks, Susanne Knorre und Jan Niklas Kocks, Wiesbaden: Springer VS, 2020, S. 223–242.",
+      "erklaerung": "Zuerst den Beitrag und dessen Autor nennen, danach mit „in:“ den Sammelband und seine Herausgebenden.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "KAP-12",
+      "quellenart": "Aufsatz aus Sammelband",
+      "titel": "Das Projekt OdeNet: Aufbau eines semantischen Netzes für die deutsche Sprache",
+      "autorinnen_autoren": [
+        "Melanie Siegel"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://link.springer.com/chapter/10.1007/978-3-658-44781-6_5",
+      "buchtitel": "Hybride KI mit Machine Learning und Knowledge Graphs",
+      "buchuntertitel": "Innovative Lösungen aus der Praxis",
+      "herausgeber": [
+        "Knut Hinkelmann",
+        "Thomas Hoppe",
+        "Bernhard G. Humm"
+      ],
+      "ort": "Wiesbaden",
+      "verlag": "Springer Vieweg",
+      "seiten": "97–122",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Seiten des Beitrags: 97–122",
+          "Beitragsautor/in: Melanie Siegel",
+          "Beitragstitel: Das Projekt OdeNet: Aufbau eines semantischen Netzes für die deutsche Sprache",
+          "Titel des Sammelbands: Hybride KI mit Machine Learning und Knowledge Graphs",
+          "Untertitel des Sammelbands: Innovative Lösungen aus der Praxis",
+          "Herausgebende: Knut Hinkelmann, Thomas Hoppe, Bernhard G. Humm",
+          "Verlag/Ort: Springer Vieweg, Wiesbaden",
+          "Erscheinungsjahr: 2025"
+        ]
+      },
+      "musterloesung": "Siegel, Melanie: Das Projekt OdeNet: Aufbau eines semantischen Netzes für die deutsche Sprache, in: Hybride KI mit Machine Learning und Knowledge Graphs. Innovative Lösungen aus der Praxis, hrsg. von Knut Hinkelmann, Thomas Hoppe und Bernhard G. Humm, Wiesbaden: Springer Vieweg, 2025, S. 97–122.",
+      "erklaerung": "Zuerst den Beitrag und dessen Autor nennen, danach mit „in:“ den Sammelband und seine Herausgebenden.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "ZEI-13",
+      "quellenart": "Zeitschriftenaufsatz",
+      "titel": "Warum wir eine gemeinwohlorientierte Medien- und Kommunikationswissenschaft brauchen",
+      "autorinnen_autoren": [
+        "Sevda Can Arslan"
+      ],
+      "erscheinungsjahr": 2024,
+      "original_url": "https://link.springer.com/article/10.1007/s11616-024-00832-z",
+      "zeitschrift": "Publizistik",
+      "jahrgang": 69,
+      "heft": 1,
+      "seiten": "5–37",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Zeitschrift: Publizistik",
+          "Aufsatz: Warum wir eine gemeinwohlorientierte Medien- und Kommunikationswissenschaft brauchen",
+          "Autor/in: Sevda Can Arslan",
+          "Ausgabe: Jahrgang 69, Heft 1, Jahr 2024",
+          "Seiten: 5–37"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Arslan, Sevda Can: Warum wir eine gemeinwohlorientierte Medien- und Kommunikationswissenschaft brauchen, in: Publizistik, 2024 (1), S. 5–37.",
+      "erklaerung": "Nach den Beitragsdaten folgen Zeitschriftenname, Erscheinungsjahr und Heftnummer sowie die Seiten.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "ZEI-14",
+      "quellenart": "Zeitschriftenaufsatz",
+      "titel": "Chancen und Herausforderungen der redaktionellen Umsetzung von Audience Engagement – eine Fallstudie am Beispiel des Projektes #unserWasser",
+      "autorinnen_autoren": [
+        "Bernadette Uth"
+      ],
+      "erscheinungsjahr": 2024,
+      "original_url": "https://link.springer.com/article/10.1007/s11616-024-00830-1",
+      "zeitschrift": "Publizistik",
+      "jahrgang": 69,
+      "heft": 1,
+      "seiten": "39–63",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Zeitschrift: Publizistik",
+          "Aufsatz: Chancen und Herausforderungen der redaktionellen Umsetzung von Audience Engagement – eine Fallstudie am Beispiel des Projektes #unserWasser",
+          "Autor/in: Bernadette Uth",
+          "Ausgabe: Jahrgang 69, Heft 1, Jahr 2024",
+          "Seiten: 39–63"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Uth, Bernadette: Chancen und Herausforderungen der redaktionellen Umsetzung von Audience Engagement – eine Fallstudie am Beispiel des Projektes #unserWasser, in: Publizistik, 2024 (1), S. 39–63.",
+      "erklaerung": "Nach den Beitragsdaten folgen Zeitschriftenname, Erscheinungsjahr und Heftnummer sowie die Seiten.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "ZEI-15",
+      "quellenart": "Zeitschriftenaufsatz",
+      "titel": "Asymmetrisch verteilte Teilhabe. Anschlusskommunikation in politisch-kommunikativen Milieus",
+      "autorinnen_autoren": [
+        "Olaf Jandura",
+        "Nele Köhler"
+      ],
+      "erscheinungsjahr": 2024,
+      "original_url": "https://link.springer.com/article/10.1007/s11616-024-00840-z",
+      "zeitschrift": "Publizistik",
+      "jahrgang": 69,
+      "heft": 2,
+      "seiten": "121–142",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Zeitschrift: Publizistik",
+          "Aufsatz: Asymmetrisch verteilte Teilhabe. Anschlusskommunikation in politisch-kommunikativen Milieus",
+          "Autor/in: Olaf Jandura, Nele Köhler",
+          "Ausgabe: Jahrgang 69, Heft 2, Jahr 2024",
+          "Seiten: 121–142"
+        ]
+      },
+      "musterloesung": "Jandura, Olaf und Köhler, Nele: Asymmetrisch verteilte Teilhabe. Anschlusskommunikation in politisch-kommunikativen Milieus, in: Publizistik, 2024 (2), S. 121–142.",
+      "erklaerung": "Nach den Beitragsdaten folgen Zeitschriftenname, Erscheinungsjahr und Heftnummer sowie die Seiten.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "ZEI-16",
+      "quellenart": "Zeitschriftenaufsatz",
+      "titel": "Digitaler Stress und die neuen Praktiken der Grenzziehung",
+      "autorinnen_autoren": [
+        "Lisa Waldenburger",
+        "Jeffrey Wimmer"
+      ],
+      "erscheinungsjahr": 2024,
+      "original_url": "https://link.springer.com/article/10.1007/s11616-024-00841-y",
+      "zeitschrift": "Publizistik",
+      "jahrgang": 69,
+      "heft": 2,
+      "seiten": "143–173",
+      "hinweis": "Akademischer Titel M.A. der Autorin wird gemäß Schulregel nicht ins Literaturverzeichnis übernommen.",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Zeitschrift: Publizistik",
+          "Aufsatz: Digitaler Stress und die neuen Praktiken der Grenzziehung",
+          "Autor/in: Lisa Waldenburger, Jeffrey Wimmer",
+          "Ausgabe: Jahrgang 69, Heft 2, Jahr 2024",
+          "Seiten: 143–173"
+        ]
+      },
+      "musterloesung": "Waldenburger, Lisa und Wimmer, Jeffrey: Digitaler Stress und die neuen Praktiken der Grenzziehung, in: Publizistik, 2024 (2), S. 143–173.",
+      "erklaerung": "Nach den Beitragsdaten folgen Zeitschriftenname, Erscheinungsjahr und Heftnummer sowie die Seiten.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "PRE-17",
+      "quellenart": "Presseartikel (Print)",
+      "titel": "Dringend geboten",
+      "autorinnen_autoren": [
+        "Malte Lehming"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://www.das-parlament.de/epaper/2025/12/epaper/ausgabe.pdf#page=6",
+      "zeitung": "Das Parlament",
+      "datum": "15.03.2025",
+      "seiten": "6",
+      "rubrik": "Gastkommentar – Pro",
+      "quelle_ist_pdf": true,
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Rubrik: Gastkommentar – Pro",
+          "Autor/in: Malte Lehming",
+          "Titel: Dringend geboten",
+          "Printzeitung: Das Parlament",
+          "Erscheinungstag: 15.03.2025",
+          "Druckseite: 6"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Lehming, Malte: Dringend geboten, in: Das Parlament vom 15.03.2025, S. 6.",
+      "erklaerung": "Bei einem gedruckten Zeitungsartikel folgen nach dem Titel Zeitung, Erscheinungsdatum und Druckseite.",
+      "nutzungsrecht_hinweis": "Nur auf Originalseite verlinken; PDF/Abbildungen nicht ohne gesonderte Freigabe öffentlich hosten.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "PRE-18",
+      "quellenart": "Presseartikel (Print)",
+      "titel": "Schaden für die Demokratie",
+      "autorinnen_autoren": [
+        "Stephan Hebel"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://www.das-parlament.de/epaper/2025/12/epaper/ausgabe.pdf#page=6",
+      "zeitung": "Das Parlament",
+      "datum": "15.03.2025",
+      "seiten": "6",
+      "rubrik": "Gastkommentar – Contra",
+      "quelle_ist_pdf": true,
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Rubrik: Gastkommentar – Contra",
+          "Autor/in: Stephan Hebel",
+          "Titel: Schaden für die Demokratie",
+          "Printzeitung: Das Parlament",
+          "Erscheinungstag: 15.03.2025",
+          "Druckseite: 6"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Hebel, Stephan: Schaden für die Demokratie, in: Das Parlament vom 15.03.2025, S. 6.",
+      "erklaerung": "Bei einem gedruckten Zeitungsartikel folgen nach dem Titel Zeitung, Erscheinungsdatum und Druckseite.",
+      "nutzungsrecht_hinweis": "Nur auf Originalseite verlinken; PDF/Abbildungen nicht ohne gesonderte Freigabe öffentlich hosten.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "PRE-19",
+      "quellenart": "Presseartikel (Print)",
+      "titel": "Die fünfte Kolonne des Robert Habeck",
+      "autorinnen_autoren": [
+        "Alexander Weinlein"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://www.das-parlament.de/epaper/2025/12/epaper/ausgabe.pdf#page=6",
+      "zeitung": "Das Parlament",
+      "datum": "15.03.2025",
+      "seiten": "6",
+      "rubrik": "Aufgekehrt",
+      "quelle_ist_pdf": true,
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Original-Zeitungsseite und ermittle selbst die notwendigen Angaben.",
+        "hilfestufe_bei_bedarf": [
+          "Rubrik: Aufgekehrt",
+          "Autor/in: Alexander Weinlein",
+          "Titel: Die fünfte Kolonne des Robert Habeck",
+          "Printzeitung: Das Parlament",
+          "Erscheinungstag: 15.03.2025",
+          "Druckseite: 6"
+        ]
+      },
+      "musterloesung": "Weinlein, Alexander: Die fünfte Kolonne des Robert Habeck, in: Das Parlament vom 15.03.2025, S. 6.",
+      "erklaerung": "Bei einem gedruckten Zeitungsartikel folgen nach dem Titel Zeitung, Erscheinungsdatum und Druckseite.",
+      "nutzungsrecht_hinweis": "Nur auf Originalseite verlinken; PDF/Abbildungen nicht ohne gesonderte Freigabe öffentlich hosten.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "PRE-20",
+      "quellenart": "Presseartikel (Print)",
+      "titel": "Umbau im Autoland",
+      "autorinnen_autoren": [
+        "Nina Jeglinski"
+      ],
+      "erscheinungsjahr": 2024,
+      "original_url": "https://www.das-parlament.de/epaper/2024/30_32/epaper/pdf/page_1.pdf",
+      "zeitung": "Das Parlament",
+      "datum": "20.07.2024",
+      "seiten": "1",
+      "rubrik": "Sonderthema Zukunft des Autos",
+      "quelle_ist_pdf": true,
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Original-Zeitungsseite und ermittle selbst die notwendigen Angaben.",
+        "hilfestufe_bei_bedarf": [
+          "Rubrik: Sonderthema Zukunft des Autos",
+          "Autor/in: Nina Jeglinski",
+          "Titel: Umbau im Autoland",
+          "Printzeitung: Das Parlament",
+          "Erscheinungstag: 20.07.2024",
+          "Druckseite: 1"
+        ]
+      },
+      "musterloesung": "Jeglinski, Nina: Umbau im Autoland, in: Das Parlament vom 20.07.2024, S. 1.",
+      "erklaerung": "Bei einem gedruckten Zeitungsartikel folgen nach dem Titel Zeitung, Erscheinungsdatum und Druckseite.",
+      "nutzungsrecht_hinweis": "Nur auf Originalseite verlinken; PDF/Abbildungen nicht ohne gesonderte Freigabe öffentlich hosten.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "WEB-21",
+      "quellenart": "Internetquelle",
+      "titel": "KI in der Schule",
+      "autorinnen_autoren": [
+        "Florian Nuxoll"
+      ],
+      "erscheinungsjahr": 2023,
+      "original_url": "https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541500/ki-in-der-schule/",
+      "abruf": "10.11.2026",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Titel: KI in der Schule",
+          "Autor/in: Florian Nuxoll",
+          "Veröffentlicht: 2023",
+          "Vollständige Webadresse: https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541500/ki-in-der-schule/",
+          "Abgerufen am: 10.11.2026"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Nuxoll, Florian: KI in der Schule, https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541500/ki-in-der-schule/ (gesehen am 10.11.2026).",
+      "erklaerung": "Bei einer Internetquelle vollständige URL und ein konkretes Abrufdatum angeben.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "WEB-22",
+      "quellenart": "Internetquelle",
+      "titel": "Regulierung von KI. Ansätze, Ideen, Pläne",
+      "autorinnen_autoren": [
+        "Hannah Ruschemeier"
+      ],
+      "erscheinungsjahr": 2023,
+      "original_url": "https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541498/regulierung-von-ki/",
+      "abruf": "10.11.2026",
+      "schwierigkeitsstufe": "Grundlagen",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Datenkarte",
+        "angaben_unsortiert": [
+          "Titel: Regulierung von KI. Ansätze, Ideen, Pläne",
+          "Autor/in: Hannah Ruschemeier",
+          "Veröffentlicht: 2023",
+          "Vollständige Webadresse: https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541498/regulierung-von-ki/",
+          "Abgerufen am: 10.11.2026"
+        ],
+        "original_oeffnen_optional": true
+      },
+      "musterloesung": "Ruschemeier, Hannah: Regulierung von KI. Ansätze, Ideen, Pläne, https://www.bpb.de/shop/zeitschriften/apuz/kuenstliche-intelligenz-2023/541498/regulierung-von-ki/ (gesehen am 10.11.2026).",
+      "erklaerung": "Bei einer Internetquelle vollständige URL und ein konkretes Abrufdatum angeben.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "WEB-23",
+      "quellenart": "Internetquelle",
+      "titel": "Von Gilgamesch zum Algorithmus. Kleine Technikgeschichte der Propaganda",
+      "autorinnen_autoren": [
+        "Christian Stöcker"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570920/von-gilgamesch-zum-algorithmus/",
+      "abruf": "10.11.2026",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Titel: Von Gilgamesch zum Algorithmus. Kleine Technikgeschichte der Propaganda",
+          "Autor/in: Christian Stöcker",
+          "Veröffentlicht: 2025",
+          "Vollständige Webadresse: https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570920/von-gilgamesch-zum-algorithmus/",
+          "Abgerufen am: 10.11.2026"
+        ]
+      },
+      "musterloesung": "Stöcker, Christian: Von Gilgamesch zum Algorithmus. Kleine Technikgeschichte der Propaganda, https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570920/von-gilgamesch-zum-algorithmus/ (gesehen am 10.11.2026).",
+      "erklaerung": "Bei einer Internetquelle vollständige URL und ein konkretes Abrufdatum angeben.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    },
+    {
+      "id": "WEB-24",
+      "quellenart": "Internetquelle",
+      "titel": "Wer’s glaubt. Zu den psychologischen Faktoren von Falsch- und Desinformation",
+      "autorinnen_autoren": [
+        "Ralph Hertwig",
+        "Lisa Oswald"
+      ],
+      "erscheinungsjahr": 2025,
+      "original_url": "https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570921/wer-s-glaubt/",
+      "abruf": "10.11.2026",
+      "schwierigkeitsstufe": "Anwendung am Original",
+      "aufgabe": "Erstelle den Eintrag für das Literaturverzeichnis nach dem Konzeptpapier (S. 13–14).",
+      "material": {
+        "anzeigetyp": "Original-Link",
+        "anweisung": "Öffne die verlinkte Originalquelle und finde die bibliografischen Angaben selbst.",
+        "hilfestufe_bei_bedarf": [
+          "Titel: Wer’s glaubt. Zu den psychologischen Faktoren von Falsch- und Desinformation",
+          "Autor/in: Ralph Hertwig, Lisa Oswald",
+          "Veröffentlicht: 2025",
+          "Vollständige Webadresse: https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570921/wer-s-glaubt/",
+          "Abgerufen am: 10.11.2026"
+        ]
+      },
+      "musterloesung": "Hertwig, Ralph und Oswald, Lisa: Wer’s glaubt. Zu den psychologischen Faktoren von Falsch- und Desinformation, https://www.bpb.de/shop/zeitschriften/apuz/propaganda-und-desinformation-2025/570921/wer-s-glaubt/ (gesehen am 10.11.2026).",
+      "erklaerung": "Bei einer Internetquelle vollständige URL und ein konkretes Abrufdatum angeben.",
+      "nutzungsrecht_hinweis": "Originalseite verlinken; etwaige freie Lizenzen vor Bild-/PDF-Einbettung im Einzelnen prüfen.",
+      "quellenpruefung": "Abgleich mit Verlags-/Herausgeberseite oder Original-Zeitungs-PDF; Abrufstand 10.11.2026"
+    }
+  ]
+}
